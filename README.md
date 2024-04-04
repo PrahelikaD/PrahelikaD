@@ -32,7 +32,7 @@
 
 
 <div>
- <img width = "30%" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PD0704&langs_count=20" />
+ <img width = "30%" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PrahelikaD&langs_count=20" />
  <img width = "40%" align="center" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 </div>
